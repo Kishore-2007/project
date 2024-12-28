@@ -346,7 +346,6 @@ searchBar.addEventListener('keydown', function(event) {
 </html>
 ```
 # OUTPUT:
-![Screenshot 2024-12-22 122549](https://github.com/user-attachments/assets/07d66859-a7a7-4859-989f-5b2cfffa9bb0)
 ![Screenshot 2024-12-22 122453](https://github.com/user-attachments/assets/f0e9bf85-4220-4c4d-8cd5-bddafde46fb6)
 ![Screenshot 2024-12-22 122503](https://github.com/user-attachments/assets/2ecf9484-df7c-40ae-b17d-e923c2173170)
 # RESULT:
