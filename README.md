@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9250bb85-b418-4b31-8ddf-6680ccc98e74)# Project Responsive Web Design using Bootstrap
+# Project Responsive Web Design using Bootstrap
 # Date:30/11/2024
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
